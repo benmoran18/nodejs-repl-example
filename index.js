@@ -9,7 +9,7 @@ const server = repl.start('Type a command: ');
 // NOTE: commands defined in this way must be called with the '.' prefix e.g. .help
 server.defineCommand('calculate', {
 	help: 'Evaluates a mathematical expression and calculates the answer.',
-	action: function(sum) {
+	action: (sum) => {
 		let result = eval(sum);
 		console.log('\nSum of digits: %d\n', result);
 	}
