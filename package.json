@@ -1,0 +1,11 @@
+{
+  "name": "repl_practice",
+  "version": "0.0.1",
+  "description": "Practice using repl library to process user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ben Moran <benmoran18@yahoo.co.uk>",
+  "license": "ISC"
+}
