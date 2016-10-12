@@ -7,5 +7,13 @@
     "test": "node index.js"
   },
   "author": "Ben Moran <benmoran18@yahoo.co.uk>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmoran18/nodejs-repl-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benmoran18/nodejs-repl-example/issues"
+  },
+  "homepage": "https://github.com/benmoran18/nodejs-repl-example#readme"
 }
